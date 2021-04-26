@@ -9,6 +9,6 @@ Version: 1.0.0
 Text Domain: twentytwentyone-child 
 */
 
-h1.site-title {
+.site-title {
 	background-color: lime;
 }
