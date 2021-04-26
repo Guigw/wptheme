@@ -9,6 +9,6 @@ Version: 1.0.0
 Text Domain: twentytwentyone-child 
 */
 
-.site-title {
+header#masthead div.site-branding h1.site-title {
 	background-color: lime;
 }
